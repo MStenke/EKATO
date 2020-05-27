@@ -12,14 +12,22 @@ Der Hosted PoC ist zum Ausprobieren und "Spielen" gedacht, sodass Sie sich einen
 Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sich zu melden / durchzuklingeln:
 
 .. list-table::
-   :widths: 40
+   :widths: 40 40
    :header-rows: 1
 
    * - **Martin Stenke**
+     - **Tobias Lamper**
    * - .. figure:: images/MStenke.png
+     - .. figure:: images/tlampert.png
    * - **Senior Systems Engineer**
+     - **Senior Systems Engineer**
    * - Leonberg, Baden-Wuerttemberg
-   * - Seit September 2018 bei Nutanix
+     - Leonberg, Baden-Wuerttemberg
+   * - Nutanix Germany
+     - Erik Sterck GmbH
    * - +49 160 / 8540279
+     - +49 152 / 28640020
    * - martin.stenke@nutanix.com
+     - tl@eriksterck.de
+   
    
