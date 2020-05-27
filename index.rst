@@ -50,8 +50,7 @@ Herzlich willkommen auf dem Nutanix Hosted PoC
 
 Diese Nutanix Hosted PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten. 
 
-In diesem Bootcamp lernen die Teilnehmer Prism Element kennen und lernen seine Funktionen und Navigation kennen. Sie werden Prism verwenden, um grundlegende Clusterverwaltungsaufgaben auszuführen, einschließlich Speicher und Netzwerk. Sie werden auch grundlegende Aufgaben zur Bereitstellung und Verwaltung von VMs mit Prism und AHV ausführen. Schließlich werden sie den VM-Datenschutz untersuchen, einschließlich Snapshots und Replikation.
-Am Ende des Bootcamps sollten die Teilnehmer die Kernkonzepte und -technologien des Nutanix Enterprise Cloud-Stacks verstehen und praktisch erlebt haben.
+In diesem Bootcamp lernen Sie Prism Element, dessen Funktionen und Navigation kennen. Sie werden Prism verwenden, um grundlegende Clusterverwaltungsaufgaben auszuführen, einschließlich Speicher und Netzwerk. Sie werden auch grundlegende Aufgaben zur Bereitstellung und Verwaltung von VMs mit Prism und AHV ausführen. Schließlich werden sie den VM-Protection untersuchen, einschließlich Snapshots und Replikation. Am Ende des Bootcamps sollten Sie die Kernkonzepte und -technologien des Nutanix Enterprise Cloud-Stacks theoretisch und praktisch erlebt haben.
 
 **In den Labs werden primär folgende Nutanix Produkte verwendet:**
 
