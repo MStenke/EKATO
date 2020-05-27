@@ -23,7 +23,7 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
      - **Senior Systems Engineer**
    * - Leonberg, Baden-Wuerttemberg
      - Leonberg, Baden-Wuerttemberg
-   * - Nutanix Germany
+   * - Nutanix Germany GmbH
      - Erik Sterck GmbH
    * - +49 160 / 8540279
      - +49 152 / 28640020
