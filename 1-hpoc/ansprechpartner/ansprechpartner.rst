@@ -21,8 +21,6 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
      - .. figure:: images/tlampert.png
    * - **Senior Systems Engineer**
      - **Senior Systems Engineer**
-   * - Leonberg, Baden-Wuerttemberg
-     - Leonberg, Baden-Wuerttemberg
    * - Nutanix Germany GmbH
      - Erik Sterck GmbH
    * - +49 160 / 8540279
