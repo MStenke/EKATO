@@ -1,10 +1,10 @@
 .. _trainer:
 
 ---------------------
-Ihr Ansprechpartner
+Ihre Ansprechpartner
 ---------------------
 
-Ihr Ansprechpartner hilft Ihnen bei Fragen und oder Problemen während des Hosted PoC. 
+Ihre Ansprechpartner helfen Ihnen bei Fragen und oder Problemen während des Hosted PoC. 
 
 .. figure:: images/bootcamp.png
 
