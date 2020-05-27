@@ -16,7 +16,7 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
    :header-rows: 1
 
    * - **Martin Stenke**
-     - **Tobias Lamper**
+     - **Tobias Lampert**
    * - .. figure:: images/MStenke.png
      - .. figure:: images/tlampert.png
    * - **Senior Systems Engineer**
